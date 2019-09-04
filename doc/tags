@@ -3,7 +3,7 @@ g:man_hotkey	man.txt	/*g:man_hotkey*
 g:man_open_vert	man.txt	/*g:man_open_vert*
 man-about	man.txt	/*man-about*
 man-changelog	man.txt	/*man-changelog*
-man-configuation	man.txt	/*man-configuation*
+man-configuration	man.txt	/*man-configuration*
 man-contents	man.txt	/*man-contents*
 man-contributions	man.txt	/*man-contributions*
 man-introduction	man.txt	/*man-introduction*

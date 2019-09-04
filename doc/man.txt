@@ -15,7 +15,7 @@ CONTENTS							*man-contents*
 
 	1.Introduction ............................... |man-introduction|
 	2.Usage ...................................... |man-usage|
-	3.Configuation ............................... |man-configuation|
+	3.Configuration .............................. |man-configuration|
 		3.1.Enable/disable plugin ............ |g:loaded_man|
 		3.2.Hotkeys .......................... |g:man_hotkey|
 		3.3.Man window position .............. |g:man_open_vert|
@@ -38,7 +38,7 @@ USAGE								   *man-usage*
 	The manual page will open in new vertical or horizontal split window.
 	(see |g:man_open_vert|)
 ==============================================================================
-CONFIGUATION						    *man-configuation*
+CONFIGURATION						   *man-configuration*
 
 	   You can specify any options listed below in your |vimrc|
 ------------------------------------------------------------------------------
